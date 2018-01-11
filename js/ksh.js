@@ -47,7 +47,7 @@
         divToAppend.on('click', '.cellule', function(){
 
             $(this).find('input').prop("checked", true);
-            $(this).css("background-color","yellow");
+            $(this).addClass("selected"); 
         });  
     };
     

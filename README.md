@@ -21,6 +21,8 @@ kSh need the ksh.js to be declared in your file.
 
 You need to pass in parameter the ```<div>``` to append the generate table. 
 
+When a cell is clicked, the class ```.selected``` is added to the ```<td>```, you can easily customize this class in your CSS.
+
 ### Compatibility  
 
 Thanks to its simplicity, kSh plugin is compatible with IE, Firefox, Chrome ! 
