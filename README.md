@@ -19,6 +19,9 @@ kSh need the ksh.js to be declared in your file.
 
 ```sh
  $('#divToAppend').kSh($('#divToAppend')); 
+ 
+ <div id="divToAppend">
+ </div>
  ```
 
 You need to pass in parameter the ```<div>``` to append the generate table. 
