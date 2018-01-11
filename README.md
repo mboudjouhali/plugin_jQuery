@@ -23,5 +23,4 @@ You need to pass in parameter the ```<div>``` to append the generate table.
 
 ### Compatibility  
 
-Thanks to its simplicity, kSh plugin is compatible with ![IE](https://vignette.wikia.nocookie.net/logopedia/images/5/5d/IE9.png/revision/latest/scale-to-width-down/200?cb=20121221232011 | width=150), ![Chrome](https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Google_Chrome_for_Android_Icon_2016.svg/revision/latest/scale-to-width-down/180?cb=20160305053723 | width=150), ![Zozor](https://www.logaster.com/blog/wp-content/uploads/2012/08/firefox_current_logo.jpg | width=150)
-
+Thanks to its simplicity, kSh plugin is compatible with IE, Firefox, Chrome ! 
