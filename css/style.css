@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+}
+
+td, tr, th
+{
+    border: 1px solid black;
+}
+
+.selected {
+    background-color:red;
+}
+
+.hidden {
+    display:none;
+}
