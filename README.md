@@ -25,4 +25,6 @@ When a cell is clicked, the class ```.selected``` is added to the ```<td>```, yo
 
 ## Compatibility  
 
-Thanks to its simplicity, kSh plugin is compatible with IE, Firefox, Chrome and Safari ! 
+Thanks to its simplicity, kSh plugin is compatible with IE, Firefox, Chrome and Safari !
+
+He can also be used in a mobile app/responsive website ! 
