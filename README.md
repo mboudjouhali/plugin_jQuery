@@ -5,7 +5,9 @@ This table is clickable (that's why the example in this git is a .php) and he re
 
 ### Installation
 
-kSh only need the ksh.js to be declared in your file.
+`jQuery is required!` 
+
+kSh need the ksh.js to be declared in your file.
 
 ```sh
 <script src="js/ksh.js"></script>
