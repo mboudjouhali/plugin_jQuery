@@ -2,10 +2,6 @@
 {
     $.fn.kSh=function(divToAppend)
     {
-        console.log(divToAppend);
-       /* FAIRE 2 FONCTIONS : 1 EN PASSANT LA DATE PONCTUEL EN PARAMETRE
-        LAUTRE LE FAIRE POUR DES DISPOS RECURRENTES (EACH LUNDI, EACH MARDI) */
-
         var days = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"];
         var hours = ["0 à 2h", "2 à 4h", "4 à 6h", "6 à 8h", "8 à 10h", "10 à 12h", "12 à 14h", "14 à 16h", "16 à 18h", "18 à 20h", "20 à 22h", "22 à 00h"];     
         var weekNumber = getWeekNumber(new Date());
