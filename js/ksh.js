@@ -36,7 +36,7 @@
                 insert += '<tr><td>' + hours[j] + '</td>';
                 
                 for (var y = 0; y < 7; ++y) {
-                        insert += '<td class="cellule"><input class="hidden" type="radio" name="'+ days[y] +'" value=" '+ hours[j] +'"/></td>';              
+                        insert += '<td class="cellule"><input class="hidden" type="radio" name="'+ days[y] +'-'+j+'" value=" '+ hours[j] +'"/></td>';              
                 }
                 insert += '</tr>';
             }
