@@ -10,7 +10,7 @@
         
     </head>
     <body>
-        <span id="clicTest">Test</span>
+        <span id="clicTest">Cliquez ici pour générer le tableau</span>
         <form action="" method="post">
             <div id="kshTable">
 
@@ -19,16 +19,15 @@
         </form>
         
         <?php 
-            var_dump($_POST);
-        
             $postData = $_POST; 
             
-        foreach ($postData as $key => $pd) {
-            var_dump($key);
-            var_dump($pd);
-        }
-        
-        
+            foreach ($postData as $key => $pd) {
+                var_dump($key);
+                var_dump($pd);
+            }
+            if($postData){
+                var_dump($postData);
+            }
         ?>
     </body>
 </html>
